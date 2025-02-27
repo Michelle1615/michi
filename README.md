@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm michelle</h1>
+<h1 align="center">Hi 👋, I'm Michelle</h1>
 <h3 align="center">hoLa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michelle&label=Profile%20views&color=0e75b6&style=flat" alt="michelle" /> </p>
